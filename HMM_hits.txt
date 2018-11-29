@@ -1,0 +1,8 @@
+Control1protein_search
+15
+Control2protein_search
+20
+Obese1protein_search
+51
+Obese2protein_search
+58
