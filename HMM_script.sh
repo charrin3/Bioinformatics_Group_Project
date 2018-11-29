@@ -22,3 +22,8 @@ do
 done
 done
 
+for file in *_search*
+do
+echo $(basename -s .txt "$file")
+grep -v '#' "$file" | wc -l
+done >> HMM_hits.txt
