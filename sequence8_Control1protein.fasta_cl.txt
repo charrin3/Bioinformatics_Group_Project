@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+Control1             -          sequence8            -                  0 2339.1  11.0         0 2338.9  11.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      sequence8.hmm
+# Target file:     Control1protein.fasta
+# Option settings: /afs/nd.edu/user19/lcampbe3/local/bin/hmmsearch --tblout sequence8_Control1protein.fasta_cl.txt sequence8.hmm Control1protein.fasta 
+# Current dir:     /afs/nd.edu/user19/lcampbe3/biocomp/Bioinformatics_Group_Project
+# Date:            Sat Dec  1 09:16:47 2018
+# [ok]

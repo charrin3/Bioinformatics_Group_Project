@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese2               -          sequence2            -           1.3e-202  668.6  31.2  1.4e-202  668.4  31.2   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence2            -           1.3e-202  668.6  31.2  1.4e-202  668.4  31.2   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence2            -           1.3e-202  668.6  31.2  1.4e-202  668.4  31.2   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence2            -           1.3e-202  668.6  31.2  1.4e-202  668.4  31.2   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence2            -           1.3e-202  668.6  31.2  1.4e-202  668.4  31.2   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence2            -           1.3e-202  668.6  31.2  1.4e-202  668.4  31.2   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence2            -           1.3e-202  668.6  31.2  1.4e-202  668.4  31.2   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence2            -           1.3e-202  668.6  31.2  1.4e-202  668.4  31.2   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence2            -           1.3e-202  668.6  31.2  1.4e-202  668.4  31.2   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence2            -           1.3e-202  668.6  31.2  1.4e-202  668.4  31.2   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence2            -           1.3e-202  668.6  31.2  1.4e-202  668.4  31.2   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence2            -           1.3e-202  668.6  31.2  1.4e-202  668.4  31.2   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence2            -           1.3e-202  668.6  31.2  1.4e-202  668.4  31.2   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence2            -           1.3e-202  668.6  31.2  1.4e-202  668.4  31.2   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence2            -           1.3e-202  668.6  31.2  1.4e-202  668.4  31.2   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      sequence2.hmm
+# Target file:     Obese2protein.fasta
+# Option settings: /afs/nd.edu/user19/lcampbe3/local/bin/hmmsearch --tblout sequence2_Obese2protein.fasta_cl.txt sequence2.hmm Obese2protein.fasta 
+# Current dir:     /afs/nd.edu/user19/lcampbe3/biocomp/Bioinformatics_Group_Project
+# Date:            Sat Dec  1 09:16:53 2018
+# [ok]
