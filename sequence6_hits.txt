@@ -2,7 +2,3 @@ sequence6_Control1protein.fasta, 12
 sequence6_Control2protein.fasta, 20
 sequence6_Obese1protein.fasta, 20
 sequence6_Obese2protein.fasta, 18
-sequence6_primate_Control1protein.fasta, 0
-sequence6_primate_Control2protein.fasta, 0
-sequence6_primate_Obese1protein.fasta, 0
-sequence6_primate_Obese2protein.fasta, 0

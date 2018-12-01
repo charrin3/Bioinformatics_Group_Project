@@ -29,5 +29,5 @@ Control2             -          sequence9            -           6.7e-271  890.7
 # Target file:     Control2protein.fasta
 # Option settings: /afs/nd.edu/user19/lcampbe3/local/bin/hmmsearch --tblout sequence9_Control2protein.fasta_cl.txt sequence9.hmm Control2protein.fasta 
 # Current dir:     /afs/nd.edu/user19/lcampbe3/biocomp/Bioinformatics_Group_Project
-# Date:            Sat Dec  1 09:16:49 2018
+# Date:            Sat Dec  1 10:37:05 2018
 # [ok]

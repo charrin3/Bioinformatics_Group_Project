@@ -10,5 +10,5 @@ Obese2               -          sequence_1_primate   -            3.2e-83  273.4
 # Target file:     Obese2protein.fasta
 # Option settings: /afs/nd.edu/user19/lcampbe3/local/bin/hmmsearch --tblout sequence_1_primate_Obese2protein.fasta_cl.txt sequence_1_primate.hmm Obese2protein.fasta 
 # Current dir:     /afs/nd.edu/user19/lcampbe3/biocomp/Bioinformatics_Group_Project
-# Date:            Sat Dec  1 09:16:52 2018
+# Date:            Sat Dec  1 10:37:09 2018
 # [ok]

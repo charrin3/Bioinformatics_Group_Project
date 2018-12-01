@@ -24,13 +24,14 @@ done
 
 for file in *_cl*
 do
-echo $(basename -s _cl.txt "$file") >
-grep -v '#' "$file" | wc -l >>
+printf "$(basename -s _cl.txt "$file"), "
+grep -v '#' "$file" | wc -l
+echo
 done > HMM_hits.txt
 
-for i in 1, 2, 6, 8, 9, 10
+for i in 1 2 6 8 9 10
 do
-grep 'sequence$i' "HMM_hits.txt" > sequence"$i"_hits.txt
+grep sequence"$i"_ "HMM_hits.txt" > sequence"$i"_hits.txt
 done
 
 

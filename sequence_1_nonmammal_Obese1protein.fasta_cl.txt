@@ -1,15 +1,15 @@
 #                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
 # target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
 #------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
-Obese1               -          sequence1            -           6.8e-112  367.4   0.2  7.5e-112  367.2   0.2   1.0   1   0   0   1   1   1   1 -
-Obese1               -          sequence1            -           6.8e-112  367.4   0.2  7.5e-112  367.2   0.2   1.0   1   0   0   1   1   1   1 -
+Obese1               -          sequence_1_nonmammal -            1.5e-16   55.8   0.0   1.9e-16   55.4   0.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          sequence_1_nonmammal -            1.5e-16   55.8   0.0   1.9e-16   55.4   0.0   1.0   1   0   0   1   1   1   1 -
 #
 # Program:         hmmsearch
 # Version:         3.2.1 (June 2018)
 # Pipeline mode:   SEARCH
-# Query file:      sequence1.hmm
+# Query file:      sequence_1_nonmammal.hmm
 # Target file:     Obese1protein.fasta
-# Option settings: /afs/nd.edu/user19/lcampbe3/local/bin/hmmsearch --tblout sequence1_Obese1protein.fasta_cl.txt sequence1.hmm Obese1protein.fasta 
+# Option settings: /afs/nd.edu/user19/lcampbe3/local/bin/hmmsearch --tblout sequence_1_nonmammal_Obese1protein.fasta_cl.txt sequence_1_nonmammal.hmm Obese1protein.fasta 
 # Current dir:     /afs/nd.edu/user19/lcampbe3/biocomp/Bioinformatics_Group_Project
 # Date:            Sat Dec  1 10:37:06 2018
 # [ok]

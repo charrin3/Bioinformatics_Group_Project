@@ -1,80 +1,80 @@
-sequence10_Control1protein.fasta
-15
-sequence10_Control2protein.fasta
-20
-sequence10_Obese1protein.fasta
-100
-sequence10_Obese2protein.fasta
-93
-sequence1_Control1protein.fasta
-12
-sequence1_Control2protein.fasta
-20
-sequence1_nonmammal_Control1protein.fasta
-12
-sequence1_nonmammal_Control2protein.fasta
-20
-sequence1_nonmammal_Obese1protein.fasta
-2
-sequence1_nonmammal_Obese2protein.fasta
-1
-sequence1_Obese1protein.fasta
-2
-sequence1_Obese2protein.fasta
-1
-sequence_1_primate_Control1protein.fasta
-12
-sequence_1_primate_Control2protein.fasta
-20
-sequence_1_primate_Obese1protein.fasta
-2
-sequence_1_primate_Obese2protein.fasta
-1
-sequence2_Control1protein.fasta
-12
-sequence2_Control2protein.fasta
-20
-sequence2_Obese1protein.fasta
-16
-sequence2_Obese2protein.fasta
-15
-sequence6_Control1protein.fasta
-12
-sequence6_Control2protein.fasta
-20
-sequence6nonmammal_Control1protein.fasta
-0
-sequence6nonmammal_Control2protein.fasta
-0
-sequence6nonmammal_Obese1protein.fasta
-0
-sequence6nonmammal_Obese2protein.fasta
-0
-sequence6_Obese1protein.fasta
-20
-sequence6_Obese2protein.fasta
-18
-sequence6_primate_Control1protein.fasta
-0
-sequence6_primate_Control2protein.fasta
-0
-sequence6_primate_Obese1protein.fasta
-0
-sequence6_primate_Obese2protein.fasta
-0
-sequence8_Control1protein.fasta
-18
-sequence8_Control2protein.fasta
-20
-sequence8_Obese1protein.fasta
-38
-sequence8_Obese2protein.fasta
-38
-sequence9_Control1protein.fasta
-15
-sequence9_Control2protein.fasta
-20
-sequence9_Obese1protein.fasta
-51
-sequence9_Obese2protein.fasta
-58
+sequence10_Control1protein.fasta, 15
+
+sequence10_Control2protein.fasta, 20
+
+sequence10_Obese1protein.fasta, 100
+
+sequence10_Obese2protein.fasta, 93
+
+sequence1_Control1protein.fasta, 12
+
+sequence1_Control2protein.fasta, 20
+
+sequence_1_nonmammal_Control1protein.fasta, 12
+
+sequence_1_nonmammal_Control2protein.fasta, 20
+
+sequence_1_nonmammal_Obese1protein.fasta, 2
+
+sequence_1_nonmammal_Obese2protein.fasta, 1
+
+sequence1_Obese1protein.fasta, 2
+
+sequence1_Obese2protein.fasta, 1
+
+sequence_1_primate_Control1protein.fasta, 12
+
+sequence_1_primate_Control2protein.fasta, 20
+
+sequence_1_primate_Obese1protein.fasta, 2
+
+sequence_1_primate_Obese2protein.fasta, 1
+
+sequence2_Control1protein.fasta, 12
+
+sequence2_Control2protein.fasta, 20
+
+sequence2_Obese1protein.fasta, 16
+
+sequence2_Obese2protein.fasta, 15
+
+sequence6_Control1protein.fasta, 12
+
+sequence6_Control2protein.fasta, 20
+
+sequence_6nonmammal_Control1protein.fasta, 0
+
+sequence_6nonmammal_Control2protein.fasta, 0
+
+sequence_6nonmammal_Obese1protein.fasta, 0
+
+sequence_6nonmammal_Obese2protein.fasta, 0
+
+sequence6_Obese1protein.fasta, 20
+
+sequence6_Obese2protein.fasta, 18
+
+sequence_6primate_Control1protein.fasta, 0
+
+sequence_6primate_Control2protein.fasta, 0
+
+sequence_6primate_Obese1protein.fasta, 0
+
+sequence_6primate_Obese2protein.fasta, 0
+
+sequence8_Control1protein.fasta, 18
+
+sequence8_Control2protein.fasta, 20
+
+sequence8_Obese1protein.fasta, 38
+
+sequence8_Obese2protein.fasta, 38
+
+sequence9_Control1protein.fasta, 15
+
+sequence9_Control2protein.fasta, 20
+
+sequence9_Obese1protein.fasta, 51
+
+sequence9_Obese2protein.fasta, 58
+
