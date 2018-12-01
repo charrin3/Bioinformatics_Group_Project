@@ -3,8 +3,12 @@
 """
 Created on Mon Nov 26 11:03:24 2018
 
+
+#script to produce graphs for each of the transcripts
+
 @author: charrington
 """
+#read in all the files
 import pandas
 hitsframe1=pandas.read_csv("sequence1_hits.txt",header=None, sep=",")
 hitsframe2=pandas.read_csv("sequence2_hits.txt",header=None, sep=",")
@@ -16,11 +20,12 @@ hitsframe10=pandas.read_csv("sequence10_hits.txt",header=None, sep=",")
 l=["control1", "control2", "obese1", "obese2"]
 
  
-
+#import necessary programs
 import numpy
 import pandas
 from plotnine import *
 
+#produce and save the graphs
 a=ggplot(hitsframe1,aes(x='hitsframe1.iloc[:,0]',y='hitsframe1.iloc[:,1]'))+xlab("sequence1")+ylab("hits")
 g=a+geom_bar(stat="summary")+scale_x_discrete(labels=l)
 ggsave(filename="sequence1hits.pdf", plot=g)
