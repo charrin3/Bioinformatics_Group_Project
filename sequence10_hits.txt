@@ -1,0 +1,4 @@
+sequence10_Control1protein.fasta, 15
+sequence10_Control2protein.fasta, 20
+sequence10_Obese1protein.fasta, 100
+sequence10_Obese2protein.fasta, 93

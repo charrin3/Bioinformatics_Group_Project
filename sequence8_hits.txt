@@ -1,0 +1,4 @@
+sequence8_Control1protein.fasta, 18
+sequence8_Control2protein.fasta, 20
+sequence8_Obese1protein.fasta, 38
+sequence8_Obese2protein.fasta, 38
